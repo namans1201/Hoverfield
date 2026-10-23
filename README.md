@@ -1,4 +1,4 @@
-# antigravity
+# Hoverfield
 
 Particle-field experiments recreating an "antigravity" cursor interaction, where
 particles scatter away from the pointer and settle back under a simulated pull.
